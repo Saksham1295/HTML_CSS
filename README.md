@@ -13,7 +13,6 @@ HTML -:
 
 CSS -:
 style.css
-text.css
 
 Img -:
 Folder containing images used in the project
